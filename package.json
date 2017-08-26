@@ -1,0 +1,14 @@
+{
+  "name": "tradecraft",
+  "version": "0.1.0",
+  "description": "A very public book about the \"secrets\" of consulting as told by Test Double.",
+  "author": "Michael Schoonmaker <schoon@testdouble.com> (https://www.schoonology.com/)",
+  "private": true,
+  "scripts": {
+    "build": "gitbook pdf ./src ./dist/tradecraft.pdf",
+    "serve": "gitbook serve ./src ./dist"
+  },
+  "dependencies": {
+    "gitbook-cli": "~2.3.2"
+  }
+}
