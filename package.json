@@ -5,10 +5,12 @@
   "author": "Michael Schoonmaker <schoon@testdouble.com> (https://www.schoonology.com/)",
   "private": true,
   "scripts": {
-    "build": "gitbook pdf ./src ./dist/tradecraft.pdf",
-    "serve": "gitbook serve ./src ./dist"
+    "build": "gitbook pdf . ./dist/tradecraft.pdf",
+    "postinstall": "gitbook install",
+    "serve": "gitbook serve . ./dist"
   },
   "dependencies": {
-    "gitbook-cli": "~2.3.2"
+    "gitbook-cli": "~2.3.2",
+    "gitbook-plugin-todo": "~0.1.3"
   }
 }
