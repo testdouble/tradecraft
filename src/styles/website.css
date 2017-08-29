@@ -1,0 +1,7 @@
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.summary li:not(.chapter) {
+  display: none;
+}

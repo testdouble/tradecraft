@@ -1,5 +1,5 @@
 {
   "root": "src",
   "title": "Tradecraft",
-  "plugins": ["todo"]
+  "plugins": ["-fontsettings", "-sharing", "todo"]
 }
