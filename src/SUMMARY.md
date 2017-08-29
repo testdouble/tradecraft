@@ -7,3 +7,4 @@
 * [Processes](processes.md)
 * [Patterns](patterns.md)
 * [TODO](todo.md)
+* [Glossary](GLOSSARY.md)

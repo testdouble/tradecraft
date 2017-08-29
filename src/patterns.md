@@ -11,24 +11,24 @@
 - Low responsiblity, low capability.
 - Low-bandwidth communication with client advocate or product owner.
 
-### Lost Pen
+## Lost Pen
 
 If you or your Primary Advocate becomes unsure who signs your legal documentation (e.g. SOWs), you have Lost the Pen. This is a critical error that must be fixed before your contract would otherwise be renewed, or else you might find yourself with an Abrupt End.
 
-### Abrupt End
+## Abrupt End
 
 You're halfway through a six-month-long project, and in comes the email: "Your contract will be expiring in 15 days." While this might not be an emergency, unless you hear otherwise, it's best to have an Exit Mindset from this point forward.
 
-### Screaming into the Void
+## Screaming into the Void
 
 If your Primary Advocate or another key stakeholder has issues responding in a timely manner (or at all), it can certainly feel like you're Screaming into the Void. If the person you're "screaming" at is responsible for signing Statements of Work and other contracts, this can also be a case of Lost Pen.
 
-### Absentee Stakeholder
+## Absentee Stakeholder
 
-### Silent Decisions
+## Silent Decisions
 
-### Underutilized
+## Underutilized
 
-### Shields Down
+## Shields Down
 
-### High, Cave, Zone, & Hoodie
+## High, Cave, Zone, & Hoodie

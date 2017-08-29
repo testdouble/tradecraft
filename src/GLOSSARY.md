@@ -1,3 +1,5 @@
+# Glossary
+
 ## Exit Mindset
 
 When the end of an engagement is in sight, we work differently: we focus on knowledge transfer and building the client's confidence in their own abilities over building context and finding opportunities to collaborate.

@@ -11,7 +11,7 @@ In 1982 _Harvard Business Review_ published a paper titled [_Consulting Is More 
 7. Facilitating client learning—that is, teaching clients how to resolve similar problems in the future.
 8. Permanently improving organizational effectiveness.
 
-### Our 8 Goals
+## Our 8 Goals
 
 We split this into three levels according to what we see and expect from Contractors, Consultants, and Where Consulting _Should_ Be.
 

@@ -4,7 +4,7 @@ a.k.a. "TDTropes", lessons learned on the set of everyone's favorite software de
 
 This is the introduction to this awesome book.
 
-### Goals {#goals}
+## Goals {#goals}
 
 These are the goals of the book.
 
@@ -12,7 +12,7 @@ These are the goals of the book.
 - Define a language to facilitate collaboration between consultants.
 - Show potential pitfalls of contracting and consulting to potential clients.
 
-### How to read this book {#how-to}
+## How to read this book {#how-to}
 
 The book is intended to be an on-going reference. As such, the goal of the first read-through should not be to digest the entire book in one go. Rather, it's best to read through Purposes in its entirety, skimming Processes and Patterns so that you know where to find information in the future.
 
