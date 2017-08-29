@@ -6,7 +6,6 @@
   "private": true,
   "scripts": {
     "build": "gitbook pdf . ./dist/tradecraft.pdf",
-    "postinstall": "gitbook install",
     "serve": "gitbook serve . ./dist"
   },
   "dependencies": {
